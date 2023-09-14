@@ -1,4 +1,4 @@
-FROM quay.io/eclipse/che-java8-maven:nightly
+FROM 3.8.6-openjdk-8-slim
 
 MAINTAINER tech-tejendra
 
