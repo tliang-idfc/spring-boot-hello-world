@@ -1,4 +1,4 @@
-FROM 3.8.6-openjdk-8-slim
+FROM maven:3.8.6-openjdk-8-slim
 
 MAINTAINER tech-tejendra
 
